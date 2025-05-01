@@ -1,13 +1,3 @@
-# Horse Racing Game (JavaScript) 
-
-To test or play the game feel free to use my GitHub's: [Live Demo](https://fkitsantas.github.io/Horse-Racing-Game-JavaScript/)
-
-## Table of Contents
-- [About The Project](#about-the-project)
-- [Technical Stack](#technical-stack)
-- [Features](#features)
-- [Usage](#usage)
-- [License](#license)
 
 ## About The Project
 
@@ -28,11 +18,3 @@ The game is built using the following technologies:
 - Betting System: Bet an amount of your choosing on your favorite horse.
 - Dynamic race: Each race is dynamic and unpredictable, with different outcomes each time.
 - Score tracking: Keep track of your wins and losses.
-
-## Usage
-
-To run the game, you can visit the live demo or download the code from the repository and open `index.html` in your browser.
-
-## License
-
-Distributed under the GPL-3.0 License. See `LICENSE` for more information.
