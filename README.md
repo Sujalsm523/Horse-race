@@ -1,20 +1,38 @@
+# Horse Racing Game
 
 ## About The Project
 
-This project is designed to emulate the experience of horse racing. It is a simple yet captivating game where players can bet on the horses and watch the race. Each horse has unique attributes that affect its performance in the race, making the game unpredictable and exciting. The game is designed to be intuitive and user-friendly, making it accessible to players of all ages and experience levels.
+This project is a fun and engaging horse racing game designed to simulate the thrill of the track. Players can bet on their favorite horse and watch the race unfold in real-time. Each horse has a randomized speed, making every race an unpredictable and exciting experience. The game is built with a user-friendly interface, making it accessible and enjoyable for everyone.
 
-## Technical Stack
+## How to Play
 
-The game is built using the following technologies:
-
-- HTML: The structure of the web page.
-- CSS: Styling the web page.
-- JavaScript: The core functionality of the game.
-- GitHub Pages: Hosting the game online.
+1.  **Place Your Bet:**
+    * Enter the amount you want to bet.
+    * Select the horse you want to bet on from the dropdown menu (White, Blue, Green, or Brown).
+    * Choose the number of laps for the race.
+2.  **Start the Race:**
+    * Click the "Start Race" button to begin.
+3.  **Watch the Race:**
+    * The horses will race around the track. Their movements are animated, and their speeds are randomized for each race.
+4.  **See the Results:**
+    * The results table will update as the horses finish the race.
+    * If your chosen horse wins, your funds will increase. If your horse doesn't win, your funds will decrease.
+5.  **Play Again:**
+    * Once all the horses have finished, the "Start Race" button will be enabled, and you can play again!
 
 ## Features
 
-- Horse selection: Choose the horse to bet on based on its unique attributes.
-- Betting System: Bet an amount of your choosing on your favorite horse.
-- Dynamic race: Each race is dynamic and unpredictable, with different outcomes each time.
-- Score tracking: Keep track of your wins and losses.
+-   **Interactive Betting System:** Bet on your favorite horse and see if you can win big!
+-   **Dynamic and Unpredictable Races:** Each horse's speed is randomized for every race, ensuring a different outcome each time.
+-   **Animated Gameplay:** The horses are animated to run around the track, providing a visually engaging experience.
+-   **Score Tracking:** Keep track of your funds as you win or lose bets.
+-   **Customizable Races:** Choose the number of laps for each race to make it longer or shorter.
+
+## Technical Stack
+
+The game is built using the following web technologies:
+
+-   **HTML:** Structures the game's layout and elements.
+-   **CSS:** Styles the game, including the horses, track, and user interface, and provides animations.
+-   **JavaScript:** Powers the core game logic, including the horse movement, betting system, and race outcomes.
+-   **SweetAlert2:** Used for displaying attractive pop-up messages for wins and losses.
